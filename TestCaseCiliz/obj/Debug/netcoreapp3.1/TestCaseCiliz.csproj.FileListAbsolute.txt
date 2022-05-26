@@ -1,0 +1,13 @@
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\bin\Debug\netcoreapp3.1\TestCaseCiliz.exe
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\bin\Debug\netcoreapp3.1\TestCaseCiliz.deps.json
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\bin\Debug\netcoreapp3.1\TestCaseCiliz.runtimeconfig.json
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\bin\Debug\netcoreapp3.1\TestCaseCiliz.runtimeconfig.dev.json
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\bin\Debug\netcoreapp3.1\TestCaseCiliz.dll
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\bin\Debug\netcoreapp3.1\TestCaseCiliz.pdb
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.csprojAssemblyReference.cache
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.csproj.CoreCompileInputs.cache
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.AssemblyInfoInputs.cache
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.AssemblyInfo.cs
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.dll
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.pdb
+D:\Unity\Creation\TestCaseCiliz\TestCaseCiliz\obj\Debug\netcoreapp3.1\TestCaseCiliz.genruntimeconfig.cache
